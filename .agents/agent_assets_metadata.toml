@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "_AFFc7vzHCJyh01T4N52c"
+uri = "file://artifacts/portfolio/public/hero-avatar.png"
+type = "image"
+title = "Coding and sketching illustration"
